@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+}
+#Name {
+background-color: aliceblue;
+            color: black;
+            text-align: center;
+            padding: 1rem;
+            font-size: 32px;
+            flex: 1;
+            width: 900px;
+            height: 5s0px;
+
+}
+#Ninkname{
+    display: flex;
+    gap: 1rem;
+    height: 200px;
+    font-size: 28px;
+
+}
+img {
+    color: white;
+            height: 250px;
+}
+center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wall {
+    background-color: aliceblue;
+    width: 500px;
+    height: 500px;
+    margin-top: 200px;
+    margin-right: 300px;
+}
